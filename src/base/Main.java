@@ -28,7 +28,11 @@ public class Main {
                 case 1:
                     Sax.leerXml();
                     break;
-                    
+                case 2:
+                    Jsoup scrapping = new Jsoup();
+                    scrapping.scrappingHtml();
+                    break;
+
                     
                     
                 case 3:
