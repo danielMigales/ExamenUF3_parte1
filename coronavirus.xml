@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<comunidades>
+
+  <comunidad>
+        <nombre>Madrid</nombre>
+        <url>www.madrid.es </url>
+        <contagios>120029</contagios>
+  </comunidad>
+  
+  <comunidad>
+        <nombre>Barcelona</nombre>
+        <url>www.barcelona.es </url>
+        <contagios>10967</contagios>
+  </comunidad>
+  
+  <comunidad>
+        <nombre>Valencia</nombre>
+        <url>www.valencia.es </url>
+        <contagios>35678</contagios>
+  </comunidad>
+  
+  <comunidad>
+        <nombre>Castilla</nombre>
+        <url>www.castilla.es </url>
+        <contagios>32333</contagios>
+  </comunidad>
+  
+  
+</comunidades>
